@@ -196,3 +196,25 @@ After executing the command, you can see the result below.
 
 ![images/docker-compose-img.png](images/docker-compose-img.png)
 
+
+## ⚙️ Creating the database in PostgreSQL.
+
+Data Base: db_system
+User: postgres
+Password: 123456
+
+![images/create_database.png](images/create_database.png)
+
+After creating the database, we need to restart the container img-ms-spring-product-api because a connection error occurred with the database since it did not exist yet.
+
+
+Find the container and restart.
+~~~~shell
+sudo docker container ps -a
+
+ID             IMAGE  
+28f149949462   img-ms-spring-product-api
+
+
+sudo docker container restart 28f149949462
+~~~~
