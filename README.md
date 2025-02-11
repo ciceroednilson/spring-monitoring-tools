@@ -1,1 +1,1 @@
-Start
+# The lab is for learning some tools for monitoring.
