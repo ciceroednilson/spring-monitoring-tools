@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36 OPR/113.0.0.0" version="26.0.11">
+  <diagram name="Page-1" id="CfJT-VnnryeOQZsiVflj">
+    <mxGraphModel dx="2020" dy="1139" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-1" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="20" y="250" width="1019" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-2" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.bairesdev.com/wp-content/uploads/2021/08/PostgreSQL-2.svg;" vertex="1" parent="1">
+          <mxGeometry x="20" y="260" width="190.98" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-3" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:336/0*rmv6pZTW2hfP2XYd.png;" vertex="1" parent="1">
+          <mxGeometry x="833" y="337.29" width="206" height="175.96" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-4" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://kanari.com/hs-fs/hubfs/grafana%20logo.png?width=1204&amp;height=311&amp;name=grafana%20logo.png;" vertex="1" parent="1">
+          <mxGeometry x="40" y="410" width="299.03" height="77.25" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-5" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:772/0*Spmp2n0yFB7kdryh.png;" vertex="1" parent="1">
+          <mxGeometry x="240" y="269.05999999999995" width="212" height="110.94" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="670" y="260" width="210" height="142.64" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:1400/1*o59-2_98TPsQQllPT2uzEw.png;" vertex="1" parent="1">
+          <mxGeometry x="410" y="380" width="360" height="117.3" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.cncf.io/wp-content/uploads/2022/07/1_74Ds73EYN-uqliyrxp1OKQ.png;" vertex="1" parent="1">
+          <mxGeometry x="845.01" y="260" width="181.97" height="63.84" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-12" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/pt/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png;" vertex="1" parent="1">
+          <mxGeometry x="540" y="266.94000000000005" width="62.87" height="115.19" as="geometry" />
+        </mxCell>
+        <mxCell id="2WPr3IdxNmIQ3RHnKPbq-15" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://financesonline.com/uploads/2019/08/IntelliJ-Idea-logo1.png;" vertex="1" parent="1">
+          <mxGeometry x="230" y="354.32" width="150" height="61.36" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
