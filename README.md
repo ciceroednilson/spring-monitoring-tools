@@ -31,3 +31,10 @@ This lab has the objective of testing different tools for monitoring.
 
 ![images/general.png](images/general.png)
 
+
+## ⚙️ Create a Docker image for ms-spring-product-api.
+
+This service is responsible for the CRUD operations of products.
+
+![images/docker_image_server.png](images/docker_image_server.png)
+
