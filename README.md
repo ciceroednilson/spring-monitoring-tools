@@ -26,3 +26,8 @@ This lab has the objective of testing different tools for monitoring.
   <li>Intellij</li>
   <li>VsCode</li>
 </ol>
+
+## ⚙️ General Architecture.
+
+![images/monitoring.drawio.png](images/monitoring.drawio.png)
+
