@@ -29,5 +29,5 @@ This lab has the objective of testing different tools for monitoring.
 
 ## ⚙️ General Architecture.
 
-![images/monitoring.drawio.png](images/monitoring.drawio.png)
+![images/general.png](images/general.png)
 
