@@ -46,3 +46,18 @@ sudo docker build -f Dockerfile -t img-ms-spring-product-api .
 
 ![images/docker_image_server.png](images/docker_image_server.png)
 
+
+## ⚙️ Create a Docker image for ms-spring-product-client-api.
+
+source: [ms-spring-product-client-api](ms-spring-product-client-api)
+
+This service is responsible for the call operations of products.
+
+Below is the command to create a Docker image.
+
+~~~~shell
+sudo docker build -f Dockerfile -t img-ms-spring-product-client-api .
+~~~~
+
+![images/create_docker_image_client.png](images/create_docker_image_client.png)
+
