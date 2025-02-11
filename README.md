@@ -191,5 +191,8 @@ We need to execute Docker Compose to create our containers.
 sudo docker-compose up -d --build
 ~~~~
 
+After executing the command, you can see the result below.
+
+
 ![images/docker-compose-img.png](images/docker-compose-img.png)
 
