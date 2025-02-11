@@ -1,0 +1,22 @@
+global:
+  scrape_interval: 15s  # The default scrape interval (how often Prometheus scrapes data)
+
+# The scrape configuration specifies the target services that Prometheus will scrape.
+scrape_configs:
+  - job_name: 'prometheus'  # A job name for Prometheus itself
+    static_configs:
+      - targets: ['10.5.0.4:9090']  # Scrape Prometheus metrics itself (Prometheus UI)
+
+  - job_name: 'grafana'  # Example of scraping Grafana
+    static_configs:
+      - targets: ['10.5.0.3:3000']  # Replace with the address of your Grafana instance
+
+  - job_name: 'ms-spring-product-api'  # application
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['10.5.0.6:8001']  # Replace with your application's metrics endpoint
+  
+  - job_name: 'ms-spring-product-client-api'  # application
+    metrics_path: '/actuator/prometheus'
+    static_configs:
+      - targets: ['10.5.0.7:7001']  # Replace with your application's metrics endpoint
