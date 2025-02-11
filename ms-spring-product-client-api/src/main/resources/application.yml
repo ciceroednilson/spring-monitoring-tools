@@ -1,0 +1,32 @@
+server:
+  port: 7001
+spring:
+  application:
+    name: ms-spring-product-client-api
+logging:
+  pattern:
+    level: '%5p [${spring.application.name:},%X{traceId:-},%X{spanId:-}]'
+  level:
+    org.springframework.web: INFO
+    io.opentelemetry: INFO
+
+management:
+  tracing:
+    sampling:
+      probability: 1.0
+  endpoints:
+    web:
+      exposure:
+        include: [ "prometheus" ]
+
+tracing:
+  url: http://10.5.0.5:4317
+
+
+external_api:
+  save: http://10.5.0.6:8001/product
+  update_by_id: http://10.5.0.6:8001/product/{id}
+  delete_by_id: http://10.5.0.6:8001/product/{id}
+  find_by_id: http://10.5.0.6:8001/product/{id}
+  find_all: http://10.5.0.6:8001/product
+  sum_by_categories: http://10.5.0.6:8001/product/sum
