@@ -218,3 +218,15 @@ ID             IMAGE
 
 sudo docker container restart 28f149949462
 ~~~~
+
+## ⚙️ Swagger for the ms-spring-product-api service.
+
+url: http://localhost:8001/swagger-ui/index.html
+
+![images/swagger_server.png](images/swagger_server.png)
+
+## ⚙️ Swagger for the ms-spring-product-client-api service.
+
+url: http://localhost:7001/swagger-ui/index.html
+
+![images/swagger_client.png](images/swagger_client.png)
