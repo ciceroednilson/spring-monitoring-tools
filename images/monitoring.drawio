@@ -84,12 +84,6 @@
         <mxCell id="tI6_fL3ysTr3sA-bvsCZ-31" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://miro.medium.com/v2/resize:fit:772/0*Spmp2n0yFB7kdryh.png;" vertex="1" parent="1">
           <mxGeometry x="386.22" y="62.14999999999999" width="163.78" height="85.71" as="geometry" />
         </mxCell>
-        <mxCell id="tI6_fL3ysTr3sA-bvsCZ-33" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="115.00000000000001" y="315.62" width="150" height="78.75" as="geometry" />
-        </mxCell>
-        <mxCell id="tI6_fL3ysTr3sA-bvsCZ-34" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png;" vertex="1" parent="1">
-          <mxGeometry x="699" y="315.61" width="150" height="78.75" as="geometry" />
-        </mxCell>
         <mxCell id="tI6_fL3ysTr3sA-bvsCZ-35" value="Grafana&lt;br&gt;10.5.0.3&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=default;align=center;verticalAlign=top;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;fontStyle=1;labelPosition=center;verticalLabelPosition=bottom;" vertex="1" parent="1">
           <mxGeometry x="370" y="-210" width="200" height="130" as="geometry" />
         </mxCell>
@@ -170,6 +164,12 @@
         </mxCell>
         <mxCell id="tI6_fL3ysTr3sA-bvsCZ-72" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/800px-Postgresql_elephant.svg.png;" vertex="1" parent="1">
           <mxGeometry x="719" y="871.84" width="94" height="96.94" as="geometry" />
+        </mxCell>
+        <mxCell id="tI6_fL3ysTr3sA-bvsCZ-78" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="120" y="307.43999999999994" width="140" height="95.09" as="geometry" />
+        </mxCell>
+        <mxCell id="tI6_fL3ysTr3sA-bvsCZ-79" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://du0ulnyus7r80.cloudfront.net/wp-content/uploads/2020/02/spring-boot-logo-png-4-transparent.png;" vertex="1" parent="1">
+          <mxGeometry x="704" y="307.44999999999993" width="140" height="95.09" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
