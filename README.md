@@ -230,3 +230,15 @@ url: http://localhost:8001/swagger-ui/index.html
 url: http://localhost:7001/swagger-ui/index.html
 
 ![images/swagger_client.png](images/swagger_client.png)
+
+
+## ⚙️ Prometheus Metrics.
+
+url: http://localhost:9090/query
+
+1
+![images/prometheus_news_fetch_request_product_total.png](images/prometheus_news_fetch_request_product_total.png)
+2
+![images/prometheus_news_fetch_request_product_total_2.png](images/prometheus_news_fetch_request_product_total_2.png)
+3
+![images/prometheus_news_total_products.png](images/prometheus_news_total_products.png)
