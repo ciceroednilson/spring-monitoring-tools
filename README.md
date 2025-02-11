@@ -182,3 +182,14 @@ networks:
 volumes:
   grafana_lab_data:
 ~~~~
+
+## ⚙️ Execute Docker Compose.
+
+We need to execute Docker Compose to create our containers.
+
+~~~~shell
+sudo docker-compose up -d --build
+~~~~
+
+![images/docker-compose-img.png](images/docker-compose-img.png)
+
