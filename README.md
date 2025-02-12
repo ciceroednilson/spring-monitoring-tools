@@ -199,9 +199,11 @@ After executing the command, you can see the result below.
 
 ## ⚙️ Creating the database in PostgreSQL.
 
+~~~~shell
 Data Base: db_system
 User: postgres
 Password: 123456
+~~~~
 
 ![images/create_database.png](images/create_database.png)
 
@@ -249,8 +251,11 @@ url: http://localhost:9090/query
 
 
 Url:http://localhost:3000/login
+
+~~~~shell
 User: admin
 Password: 123456
+~~~~
 
 1 - Login.
 ![images/login_grafana.png](images/login_grafana.png)
