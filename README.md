@@ -247,13 +247,21 @@ url: http://localhost:9090/query
 
 ## ⚙️ Grafana Metrics.
 
-1 - Configuring Prometheus in Grafana.
+
+Url:http://localhost:3000/login
+User: admin
+Password: 123456
+
+1 - Login.
+![images/login_grafana.png](images/login_grafana.png)
+
+2 - Configuring Prometheus in Grafana.
 ![images/grafana_configure_prometheus_1.png](images/grafana_configure_prometheus_1.png)
 
-2 - Creating a dashboard in Grafana..
+3 - Creating a dashboard in Grafana..
 ![images/grafana_configure_prometheus_creating_first_dash.png](images/grafana_configure_prometheus_creating_first_dash.png)
 
-3 - Dashboard for Products and Services.
+4 - Dashboard for Products and Services.
 ![images/grafana_configure_prometheus_creating_final_dash.png](images/grafana_configure_prometheus_creating_final_dash.png)
 
 
@@ -267,7 +275,6 @@ url: http://localhost:9090/query
 
 3 - Trace details when any error occurs while calling another service.
 ![images/jaeger_3.png](images/jaeger_3.png)
-
 
 
 ## 📌 Version.
