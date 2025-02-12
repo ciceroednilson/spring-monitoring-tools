@@ -238,7 +238,20 @@ url: http://localhost:9090/query
 
 1
 ![images/prometheus_news_fetch_request_product_total.png](images/prometheus_news_fetch_request_product_total.png)
+
 2
 ![images/prometheus_news_fetch_request_product_total_2.png](images/prometheus_news_fetch_request_product_total_2.png)
+
 3
 ![images/prometheus_news_total_products.png](images/prometheus_news_total_products.png)
+
+## ⚙️ Grafana Metrics.
+
+1 - Configuring Prometheus in Grafana.
+![images/grafana_configure_prometheus_1.png](images/grafana_configure_prometheus_1.png)
+
+2 - Creating a dashboard in Grafana..
+![images/grafana_configure_prometheus_creating_first_dash.png](images/grafana_configure_prometheus_creating_first_dash.png)
+
+3 - Dashboard for Products and Services.
+![images/grafana_configure_prometheus_creating_final_dash.png](images/grafana_configure_prometheus_creating_final_dash.png)
