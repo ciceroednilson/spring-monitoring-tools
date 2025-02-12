@@ -267,3 +267,13 @@ url: http://localhost:9090/query
 
 3 - Trace details when any error occurs while calling another service.
 ![images/jaeger_3.png](images/jaeger_3.png)
+
+
+
+## 📌 Version.
+
+1.0
+
+## ✒️ Author.
+
+Cícero Ednilson - ciceroednilson@gmail.com
