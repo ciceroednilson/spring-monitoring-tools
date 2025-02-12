@@ -255,3 +255,15 @@ url: http://localhost:9090/query
 
 3 - Dashboard for Products and Services.
 ![images/grafana_configure_prometheus_creating_final_dash.png](images/grafana_configure_prometheus_creating_final_dash.png)
+
+
+## ⚙️ Jaeger Traces.
+
+1 - Find the trace by service name.
+![images/jaeger_ui_1.png](images/jaeger_ui_1.png)
+
+2 - Trace details of an execution that calls another service.
+![images/jaeger_2.png](images/jaeger_2.png)
+
+3 - Trace details when any error occurs while calling another service.
+![images/jaeger_3.png](images/jaeger_3.png)
